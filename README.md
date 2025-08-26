@@ -19,20 +19,21 @@ It ensures each password contains:
 
 ## How to Run
 1. Clone the repo:
-
+   ```bash
    git clone https://github.com/AdarshZolekar/Password-Generator.git
 
    cd Password-Generator
-
+   ```
 3. Run the script:
-
+   ```bash
    Password-Generator.py
-
+   ```
 3. Enter desired length:
-
+   ```bash
    Enter password length: 12
 
    Generated Password: A7!mPq2$kDfL
+   ```
 
 ---
 
@@ -48,6 +49,7 @@ It ensures each password contains:
 
 ## License
 This project is open-source under the MIT License.
+
 
 
 
