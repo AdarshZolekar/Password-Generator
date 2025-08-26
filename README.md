@@ -20,18 +20,19 @@ It ensures each password contains:
 ## How to Run
 1. Clone the repo:
 
-git clone https://github.com/AdarshZolekar/password-generator.git
-cd password-generator
+   git clone https://github.com/AdarshZolekar/password-generator.git
+
+   cd password-generator
 
 3. Run the script:
 
-python password.py
+   python password.py
 
 3. Enter desired length:
 
-Enter password length: 12
+   Enter password length: 12
 
-Generated Password: A7!mPq2$kDfL
+   Generated Password: A7!mPq2$kDfL
 
 ## Example Output
 
@@ -49,5 +50,6 @@ Generated Password: Z3#tFg9@
 
 ## License
 This project is open-source under the MIT License.
+
 
 
