@@ -20,11 +20,10 @@ It ensures each password contains:
 ## How to Run
 1. Clone the repo:
 
-```bash
 git clone https://github.com/<your-username>/password-generator.git
 cd password-generator
 
-2. Run the script:
+3. Run the script:
 
 python password.py
 
@@ -52,3 +51,4 @@ No external libraries required
 
 ## License
 This project is open-source under the MIT License.
+
