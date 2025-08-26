@@ -1,4 +1,4 @@
-# Password Generator (Python)
+# Password Generator
 
 A simple Python program to generate strong and secure passwords.  
 It ensures each password contains:  
@@ -20,13 +20,13 @@ It ensures each password contains:
 ## How to Run
 1. Clone the repo:
 
-   git clone https://github.com/AdarshZolekar/password-generator.git
+   git clone https://github.com/AdarshZolekar/Password-Generator.git
 
-   cd password-generator
+   cd Password-Generator
 
 3. Run the script:
 
-   python password.py
+   Password-Generator.py
 
 3. Enter desired length:
 
@@ -34,11 +34,7 @@ It ensures each password contains:
 
    Generated Password: A7!mPq2$kDfL
 
-## Example Output
-
-Enter password length: 8
-
-Generated Password: Z3#tFg9@
+---
 
 ## Future Improvements
 
@@ -47,9 +43,12 @@ Generated Password: Z3#tFg9@
 - GUI version with Tkinter
 
 - Option to copy password to clipboard
+  
+---
 
 ## License
 This project is open-source under the MIT License.
+
 
 
 
