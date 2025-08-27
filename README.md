@@ -10,6 +10,7 @@ It ensures each password contains:
 ---
 
 ## Features
+
 - User chooses password length  
 - Guarantees strong security rules  
 - Shuffles characters for randomness  
@@ -48,8 +49,16 @@ It ensures each password contains:
   
 ---
 
+## Contributions
+
+Feel free to open issues or submit pull requests for improvements or bug fixes!
+
+---
+
 ## License
+
 This project is open-source under the MIT License.
+
 
 
 
